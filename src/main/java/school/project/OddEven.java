@@ -5,6 +5,10 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
 
+/**
+ * The OddEven class prompts the user to enter a number and determines whether it is odd or even,
+ * repeating until the user types "End" to exit.
+ */
 class OddEven{
     public static void main(String[] args){
         //Create the instances of the I/O class

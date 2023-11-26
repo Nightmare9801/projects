@@ -5,6 +5,10 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
 
+/**
+ * The LeapYearChecker class prompts the user to enter a year and determines whether it is a leap year
+ * or not.
+ */
 class LeapYearChecker{
     public static void main(String[] args){
         //Create the instances of the I/O class
